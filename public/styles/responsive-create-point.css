@@ -1,0 +1,59 @@
+@media (max-width: 768px){
+    .items-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    form button {
+        margin-left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+
+    form h1 {
+        text-align: center;
+    }
+
+    form .field-group {
+        flex-direction: column;
+    }
+
+    form .field-group .field + .field {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 650px){
+    form legend {
+        display: block;
+        text-align: center;
+    }
+
+    form h2 {
+        margin-bottom: 5px;
+    }
+}
+
+@media (max-width: 499px){
+    form {
+        padding: 5%;
+    }
+
+    #page-create-point header {
+        display: block;
+        text-align: center;
+    }
+
+    #page-create-point header a {
+        justify-content: center;
+        margin-top: 10px;
+    }
+    
+    .items-grid {
+        grid-template-columns: 1fr;
+    }
+
+    form h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+}
