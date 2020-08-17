@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+    main .cards {
+        grid-template-columns: 1fr;
+        gap: 40px 10px;
+    }
+}
