@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/caique-dev/nlw2-proffy?color=orange)](https://github.com/caique-dev/nlw2-proffy/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/caique-dev/nlw2-proffy?color=darkgreen)](https://github.com/caique-dev/nlw2-proffy/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/caique-dev/nlw2-proffy)](https://github.com/caique-dev/nlw2-proffy/network)<space> <space> ![](https://img.shields.io/github/repo-size/caique-dev/nlw2-proffy)<space> <space> ![](https://img.shields.io/github/downloads/caique-dev/nlw2-proffy/total)
+[![GitHub stars](https://img.shields.io/github/stars/caique-dev//ecoleta-nlw1?color=orange)](https://github.com/caique-dev//ecoleta-nlw1/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/caique-dev//ecoleta-nlw1?color=darkgreen)](https://github.com/caique-dev//ecoleta-nlw1/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/caique-dev//ecoleta-nlw1)](https://github.com/caique-dev//ecoleta-nlw1/network)<space> <space> ![](https://img.shields.io/github/repo-size/caique-dev//ecoleta-nlw1)<space> <space> ![](https://img.shields.io/github/downloads/caique-dev//ecoleta-nlw1/total)
 
 </div>
 
@@ -18,24 +18,24 @@
 ---
 
 ## 🖥 :iphone: Preview 
-- Desktop <[Visualizar individualmente](/readme-assets/desktop)>
+- Desktop <[Visualizar individualmente](/assets-readme/desktop)>
 <p align="center">
-  <img src="/readme-assets/desktop/desk-compilado.jpg" width="100%" tittle="Visualização no Desktop">
+  <img src="/assets-readme/desktop/compilado.jpg" width="100%" tittle="Visualização no Desktop">
 </p>
 <br>
 
-- Mobile <[Visualizar individualmente](/readme-assets/mobile)>
+- Mobile <[Visualizar individualmente](/assets-readme/mobile)>
 <p align="center">
-  <img src="/readme-assets/mobile/mobile-compilado.jpg" width="100%" tittle="Visualização no Mobile">
+  <img src="/assets-readme/mobile/compilado.jpg" width="100%" tittle="Visualização no Mobile">
 </p>
 
 ---
 
 ## 📖 Sobre 
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 1 a 7 de Junho
 
-A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
+A proposta do projeto é conectar as empresas que coletam os mais diversos tipos de lixo à quem precisa, assim reduzimos consideravelmente a quantidade de material descartado incorretamente, propocionarmos receita para as empresas de coleta e também muito mais economia de tempo para o usuário, que encontrará os pontos de coleta mais próximos.
 
 --- 
 
@@ -64,16 +64,16 @@ https://gitforwindows.org/
 https://git-scm.com/download/mac
 
 # Clonar o repositório
-git clone https://github.com/caique-dev/nlw2-proffy
+git clone https://github.com/caique-dev/ecoleta-nlw1.git
 
 # Entrar no diretório
-cd nlw2-proffy
+cd ecoleta-nlw1
 
 # Baixar as dependências
 npm install
 
-# Executar o servidor
-npm run dev
+# Iniciar o servidor
+npm start
 
 # No seu terminal deve aparecer
 server running
