@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/nlw1_6d7PvlHZ5.svg" width="150" >
+  <img src="https://images.prismic.io/rocketseat/e35c5053-5091-43ab-8d9f-0094b6676ed2_og.png?auto=compress,format&rect=0,0,1200,630&w=1200&h=630" width="150" >
 </p>
 
 <div align="center">
