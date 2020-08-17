@@ -5,7 +5,7 @@
 <div align="center">
 
 
-[![GitHub stars](https://img.shields.io/github/stars/caique-dev/ecoleta-nlw1?color=orange)](https://github.com/caique-dev/ecoleta-nlw1/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/caique-dev/ecoleta-nlw1?color=darkgreen)](https://github.com/caique-dev/ecoleta-nlw1/MIT)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/caique-dev/ecoleta-nlw1)](https://github.com/caique-dev/ecoleta-nlw1/network)<space> <space> ![](https://img.shields.io/github/repo-size/caique-dev/ecoleta-nlw1)<space> <space> ![](https://img.shields.io/github/downloads/caique-dev/ecoleta-nlw1/total)
+[![GitHub stars](https://img.shields.io/github/stars/caique-dev/ecoleta-nlw1?color=orange)](https://github.com/caique-dev/ecoleta-nlw1/stargazers)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/caique-dev/ecoleta-nlw1)](https://github.com/caique-dev/ecoleta-nlw1/network)<space> <space> ![](https://img.shields.io/github/repo-size/caique-dev/ecoleta-nlw1)<space> <space> ![](https://img.shields.io/github/downloads/caique-dev/ecoleta-nlw1/total)
 
 </div>
 
