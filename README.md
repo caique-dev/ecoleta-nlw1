@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
+  <img src="https://ik.imagekit.io/capitao/Proffy/nlw1_6d7PvlHZ5.svg" width="150" >
 </p>
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/caique-dev//ecoleta-nlw1?color=orange)](https://github.com/caique-dev//ecoleta-nlw1/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/caique-dev//ecoleta-nlw1?color=darkgreen)](https://github.com/caique-dev//ecoleta-nlw1/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/caique-dev//ecoleta-nlw1)](https://github.com/caique-dev//ecoleta-nlw1/network)<space> <space> ![](https://img.shields.io/github/repo-size/caique-dev//ecoleta-nlw1)<space> <space> ![](https://img.shields.io/github/downloads/caique-dev//ecoleta-nlw1/total)
+[![GitHub stars](https://img.shields.io/github/stars/caique-dev/ecoleta-nlw1)](https://github.com/caique-dev/ecoleta-nlw1/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/caique-dev/ecoleta-nlw1)](https://github.com/caique-dev/ecoleta-nlw1/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/caique-dev/ecoleta-nlw1/network)
 
 </div>
 
